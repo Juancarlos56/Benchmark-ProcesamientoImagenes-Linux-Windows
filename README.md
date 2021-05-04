@@ -26,3 +26,6 @@
 - Procesadores: 3
 - Versión OpenCV: 4.5
 - Ananconda Python 3.8
+### Nota
+- Descomprimir el banco de imagenes dentro del directorio "imagenes" 
+
