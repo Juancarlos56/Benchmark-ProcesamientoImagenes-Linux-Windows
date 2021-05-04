@@ -28,4 +28,6 @@
 - Ananconda Python 3.8
 ### Nota
 - Descomprimir el banco de imagenes dentro del directorio "imagenes" 
-
+### Se tiene dos tipos de archivos
+- codigo .py
+- codigo .ipynb, se trabajo con Jupyter Notebook
