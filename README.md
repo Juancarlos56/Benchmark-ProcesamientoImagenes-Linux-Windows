@@ -10,7 +10,7 @@
 
 ### Instalar todos los modulos de python necesarios para la compilacion del proyecto
 - pip install reportlab
-- pip install opencv
+- pip install opencv-python || conda install opencv
 ### Ver en que tipo de sistema operativo se esta trabajando
 
 #### Para este trabajo se utilizó dos máquinas: 
